@@ -33,6 +33,10 @@
   transition: transform var(--animation-duration) var(--timing-function);
 }
 
+.gallery__image-original {
+  display: none;
+}
+
 .gallery__link {
   display: block;
   text-decoration: none;
